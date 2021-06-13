@@ -15,4 +15,4 @@ if (isset($_SESSION["login"])) {
 } else {
     header('location: Vista/pagLogin.php');
 }
-//hola
+//HOLA MUNDO
